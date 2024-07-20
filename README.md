@@ -1,9 +1,9 @@
 ----
 
 ### Hello!
-- *Will Harrison (they/them or he/him)*
-- *29*
-- <a rel="me" href="https://tech.lgbt/@sigmatic">Mastodon</a>
+- *Willow Harrison*
+- *they/them*
+- *30*
 
 ----
 
